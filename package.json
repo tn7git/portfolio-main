@@ -1,0 +1,22 @@
+{
+  "name": "astro-strata",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/vercel": "^3.5.0",
+    "astro": "^2.10.12",
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
+    "@types/jquery": "^3.5.17",
+    "gh-pages": "^6.0.0"
+  }
+}

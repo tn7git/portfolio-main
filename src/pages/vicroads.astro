@@ -1,0 +1,19 @@
+---
+import Vicroads1 from "../components/Vicroads.astro";
+
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import Layout from "../layouts/Layout.astro";
+
+const title = "Hello";
+---
+
+<Layout {title}>
+  <Header />
+
+  <div id="main">
+    <Vicroads1 />
+  </div>
+
+  <Footer />
+</Layout>

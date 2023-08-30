@@ -1,0 +1,19 @@
+---
+import ThinkFencing from "../components/ThinkFencing.astro";
+
+import Footer from "../components/Footer.astro";
+import Header from "../components/Header.astro";
+import Layout from "../layouts/Layout.astro";
+
+const title = "Hello";
+---
+
+<Layout {title}>
+  <Header />
+
+  <div id="main">
+    <ThinkFencing />
+  </div>
+
+  <Footer />
+</Layout>
