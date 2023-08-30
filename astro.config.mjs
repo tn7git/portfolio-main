@@ -10,6 +10,8 @@ export default defineConfig({
    viewTransitions: true 
   },
   output: "server",
-  adapter: vercel()
+  adapter: vercel(),
+
+  outDir: './my-portfolio'
   
 });
