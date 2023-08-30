@@ -1,17 +1,17 @@
 import { c as createAstro, a as createComponent, r as renderTemplate, m as maybeRenderHead, b as addAttribute, d as renderComponent } from '../astro.d50e5fed.mjs';
 import 'html-escaper';
-import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.edc641df.mjs';
+import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.ce84daf0.mjs';
 import 'cookie';
 import 'kleur/colors';
 import 'path-to-regexp';
 import 'mime';
 import 'string-width';
 /* empty css                           */
-const full_1 = "/_astro/Kinder garten TT 1.549fda40.jpg";
+const full_1 = "/portfolio-main/_astro/Kinder garten TT 1.549fda40.jpg";
 
-const full_2 = "/_astro/Kinder garten TT 2.6c5619bb.jpg";
+const full_2 = "/portfolio-main/_astro/Kinder garten TT 2.6c5619bb.jpg";
 
-const $$Astro$1 = createAstro();
+const $$Astro$1 = createAstro("https://tn7git.github.io");
 const $$Kinder$1 = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$Kinder$1;
@@ -42,7 +42,7 @@ const $$Kinder$1 = createComponent(async ($$result, $$props, $$slots) => {
 </section>`;
 }, "F:/Learning/Astro/portfolio-main/src/components/Kinder.astro", void 0);
 
-const $$Astro = createAstro();
+const $$Astro = createAstro("https://tn7git.github.io");
 const $$Kinder = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Kinder;
@@ -59,6 +59,6 @@ const $$Kinder = createComponent(async ($$result, $$props, $$slots) => {
 }, "F:/Learning/Astro/portfolio-main/src/pages/kinder.astro", void 0);
 
 const $$file = "F:/Learning/Astro/portfolio-main/src/pages/kinder.astro";
-const $$url = "/kinder";
+const $$url = "/portfolio-main/kinder";
 
 export { $$Kinder as default, $$file as file, $$url as url };

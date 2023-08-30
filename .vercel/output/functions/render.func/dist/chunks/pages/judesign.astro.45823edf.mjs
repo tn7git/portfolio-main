@@ -1,19 +1,19 @@
 import { c as createAstro, a as createComponent, r as renderTemplate, m as maybeRenderHead, b as addAttribute, d as renderComponent } from '../astro.d50e5fed.mjs';
 import 'html-escaper';
-import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.edc641df.mjs';
+import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.ce84daf0.mjs';
 import 'cookie';
 import 'kleur/colors';
 import 'path-to-regexp';
 import 'mime';
 import 'string-width';
 /* empty css                           */
-const full_1 = "/_astro/JU Design Booking system- ClickUp - 3.ee7efe03.jpg";
+const full_1 = "/portfolio-main/_astro/JU Design Booking system- ClickUp - 3.ee7efe03.jpg";
 
-const full_2 = "/_astro/JU Design Booking system- ClickUp.122e5475.jpg";
+const full_2 = "/portfolio-main/_astro/JU Design Booking system- ClickUp.122e5475.jpg";
 
-const full_3 = "/_astro/JU Design Booking system- ClickUp - 2.b3cba243.jpg";
+const full_3 = "/portfolio-main/_astro/JU Design Booking system- ClickUp - 2.b3cba243.jpg";
 
-const $$Astro$1 = createAstro();
+const $$Astro$1 = createAstro("https://tn7git.github.io");
 const $$Judesign$1 = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$Judesign$1;
@@ -47,7 +47,7 @@ const $$Judesign$1 = createComponent(async ($$result, $$props, $$slots) => {
 </section>`;
 }, "F:/Learning/Astro/portfolio-main/src/components/Judesign.astro", void 0);
 
-const $$Astro = createAstro();
+const $$Astro = createAstro("https://tn7git.github.io");
 const $$Judesign = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Judesign;
@@ -64,6 +64,6 @@ const $$Judesign = createComponent(async ($$result, $$props, $$slots) => {
 }, "F:/Learning/Astro/portfolio-main/src/pages/judesign.astro", void 0);
 
 const $$file = "F:/Learning/Astro/portfolio-main/src/pages/judesign.astro";
-const $$url = "/judesign";
+const $$url = "/portfolio-main/judesign";
 
 export { $$Judesign as default, $$file as file, $$url as url };

@@ -5,7 +5,7 @@ var __freeze$1 = Object.freeze;
 var __defProp$1 = Object.defineProperty;
 var __template$1 = (cooked, raw) => __freeze$1(__defProp$1(cooked, "raw", { value: __freeze$1(raw || cooked.slice()) }));
 var _a$1;
-const $$Astro$6 = createAstro();
+const $$Astro$6 = createAstro("https://tn7git.github.io");
 const $$Featured = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$6, $$props, $$slots);
   Astro2.self = $$Featured;
@@ -58,7 +58,7 @@ const $$Featured = createComponent(async ($$result, $$props, $$slots) => {
 <\/script> -->`])), maybeRenderHead());
 }, "F:/Learning/Astro/portfolio-main/src/components/Featured.astro", void 0);
 
-const $$Astro$5 = createAstro();
+const $$Astro$5 = createAstro("https://tn7git.github.io");
 const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$5, $$props, $$slots);
   Astro2.self = $$Footer;
@@ -80,9 +80,9 @@ const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
 </footer>`;
 }, "F:/Learning/Astro/portfolio-main/src/components/Footer.astro", void 0);
 
-const avatar = "/_astro/avatar.b88ad7f2.jpg";
+const avatar = "/portfolio-main/_astro/avatar.b88ad7f2.jpg";
 
-const $$Astro$4 = createAstro();
+const $$Astro$4 = createAstro("https://tn7git.github.io");
 const $$Header = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$4, $$props, $$slots);
   Astro2.self = $$Header;
@@ -102,14 +102,14 @@ var __freeze = Object.freeze;
 var __defProp = Object.defineProperty;
 var __template = (cooked, raw) => __freeze(__defProp(cooked, "raw", { value: __freeze(raw || cooked.slice()) }));
 var _a;
-const $$Astro$3 = createAstro();
+const $$Astro$3 = createAstro("https://tn7git.github.io");
 const $$VendorScripts = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$3, $$props, $$slots);
   Astro2.self = $$VendorScripts;
   return renderTemplate(_a || (_a = __template(['<script async src="/js/jquery.min.js"><\/script>\n<script defer src="/js/jquery.poptrox.min.js"><\/script>\n<script async src="/js//browser.min.js"><\/script>\n<script async src="/js//breakpoints.min.js"><\/script>\n<script defer src="/js//util.js"><\/script>\n<script defer src="/js//main.js"><\/script>'])));
 }, "F:/Learning/Astro/portfolio-main/src/components/VendorScripts.astro", void 0);
 
-const $$Astro$2 = createAstro();
+const $$Astro$2 = createAstro("https://tn7git.github.io");
 const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$2, $$props, $$slots);
   Astro2.self = $$Layout;
@@ -132,17 +132,17 @@ const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
   </body></html>`;
 }, "F:/Learning/Astro/portfolio-main/src/layouts/Layout.astro", void 0);
 
-const th_1 = "/_astro/thinkfencing.c95a8906.jpg";
+const th_1 = "/portfolio-main/_astro/thinkfencing.c95a8906.jpg";
 
-const th_2 = "/_astro/Walkers Ordering system 1.21391123.jpg";
+const th_2 = "/portfolio-main/_astro/Walkers Ordering system 1.21391123.jpg";
 
-const th_3 = "/_astro/JU Design Booking system- ClickUp - 3.ee7efe03.jpg";
+const th_3 = "/portfolio-main/_astro/JU Design Booking system- ClickUp - 3.ee7efe03.jpg";
 
-const th_4 = "/_astro/Kinder garten TT 1.549fda40.jpg";
+const th_4 = "/portfolio-main/_astro/Kinder garten TT 1.549fda40.jpg";
 
-const th_6 = "/_astro/Vicroads traffic monitor.e11f6b03.jpg";
+const th_6 = "/portfolio-main/_astro/Vicroads traffic monitor.e11f6b03.jpg";
 
-const $$Astro$1 = createAstro();
+const $$Astro$1 = createAstro("https://tn7git.github.io");
 const $$RecentWork = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$1, $$props, $$slots);
   Astro2.self = $$RecentWork;
@@ -190,7 +190,7 @@ const $$RecentWork = createComponent(async ($$result, $$props, $$slots) => {
 </section>`;
 }, "F:/Learning/Astro/portfolio-main/src/components/RecentWork.astro", void 0);
 
-const $$Astro = createAstro();
+const $$Astro = createAstro("https://tn7git.github.io");
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro, $$props, $$slots);
   Astro2.self = $$Index;
@@ -209,7 +209,7 @@ const $$Index = createComponent(async ($$result, $$props, $$slots) => {
 }, "F:/Learning/Astro/portfolio-main/src/pages/index.astro", void 0);
 
 const $$file = "F:/Learning/Astro/portfolio-main/src/pages/index.astro";
-const $$url = "";
+const $$url = "/portfolio-main";
 
 const index = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({
   __proto__: null,

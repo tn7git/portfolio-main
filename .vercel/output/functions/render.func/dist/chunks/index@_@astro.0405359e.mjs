@@ -8,6 +8,6 @@ import 'path-to-regexp';
 import 'mime';
 import 'string-width';
 
-const page = () => import('./pages/vicroads.astro.21b07c2c.mjs');
+const page = () => import('./pages/index.astro.ce84daf0.mjs').then(n => n.i);
 
 export { page };
