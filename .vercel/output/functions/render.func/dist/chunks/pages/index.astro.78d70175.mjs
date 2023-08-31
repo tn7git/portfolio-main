@@ -56,7 +56,7 @@ const $$Featured = createComponent(async ($$result, $$props, $$slots) => {
   $("#more-bio-btn").toggleText("before", "after");
   $('#more-bio-btn').html($(this).html() == 'after' ? 'before' : 'after');
 <\/script> -->`])), maybeRenderHead());
-}, "F:/Learning/Astro/portfolio-main/src/components/Featured.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/Featured.astro", void 0);
 
 const $$Astro$5 = createAstro("https://tn7git.github.io");
 const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
@@ -78,7 +78,7 @@ const $$Footer = createComponent(async ($$result, $$props, $$slots) => {
     </ul>
   </div>
 </footer>`;
-}, "F:/Learning/Astro/portfolio-main/src/components/Footer.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/Footer.astro", void 0);
 
 const avatar = "/portfolio-main/_astro/avatar.b88ad7f2.jpg";
 
@@ -96,7 +96,7 @@ const $$Header = createComponent(async ($$result, $$props, $$slots) => {
     </h1>
   </div>
 </header>`;
-}, "F:/Learning/Astro/portfolio-main/src/components/Header.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/Header.astro", void 0);
 
 var __freeze = Object.freeze;
 var __defProp = Object.defineProperty;
@@ -107,7 +107,7 @@ const $$VendorScripts = createComponent(async ($$result, $$props, $$slots) => {
   const Astro2 = $$result.createAstro($$Astro$3, $$props, $$slots);
   Astro2.self = $$VendorScripts;
   return renderTemplate(_a || (_a = __template(['<script async src="/js/jquery.min.js"><\/script>\n<script defer src="/js/jquery.poptrox.min.js"><\/script>\n<script async src="/js//browser.min.js"><\/script>\n<script async src="/js//breakpoints.min.js"><\/script>\n<script defer src="/js//util.js"><\/script>\n<script defer src="/js//main.js"><\/script>'])));
-}, "F:/Learning/Astro/portfolio-main/src/components/VendorScripts.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/VendorScripts.astro", void 0);
 
 const $$Astro$2 = createAstro("https://tn7git.github.io");
 const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
@@ -130,7 +130,7 @@ const $$Layout = createComponent(async ($$result, $$props, $$slots) => {
   <body class="is-preload">
     ${renderSlot($$result, $$slots["default"])}
   </body></html>`;
-}, "F:/Learning/Astro/portfolio-main/src/layouts/Layout.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/layouts/Layout.astro", void 0);
 
 const th_1 = "/portfolio-main/_astro/thinkfencing.c95a8906.jpg";
 
@@ -188,7 +188,7 @@ const $$RecentWork = createComponent(async ($$result, $$props, $$slots) => {
     </article>
   </div>
 </section>`;
-}, "F:/Learning/Astro/portfolio-main/src/components/RecentWork.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/RecentWork.astro", void 0);
 
 const $$Astro = createAstro("https://tn7git.github.io");
 const $$Index = createComponent(async ($$result, $$props, $$slots) => {
@@ -206,9 +206,9 @@ const $$Index = createComponent(async ($$result, $$props, $$slots) => {
 
   ${renderComponent($$result2, "Footer", $$Footer, {})}
 ` })}`;
-}, "F:/Learning/Astro/portfolio-main/src/pages/index.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/pages/index.astro", void 0);
 
-const $$file = "F:/Learning/Astro/portfolio-main/src/pages/index.astro";
+const $$file = "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/pages/index.astro";
 const $$url = "/portfolio-main";
 
 const index = /*#__PURE__*/Object.freeze(/*#__PURE__*/Object.defineProperty({

@@ -8,6 +8,6 @@ import 'path-to-regexp';
 import 'mime';
 import 'string-width';
 
-const page = () => import('./pages/kinder.astro.9adc9f0f.mjs');
+const page = () => import('./pages/judesign.astro.f181301f.mjs');
 
 export { page };

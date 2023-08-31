@@ -1,6 +1,6 @@
 import { c as createAstro, a as createComponent, r as renderTemplate, m as maybeRenderHead, b as addAttribute, d as renderComponent } from '../astro.d50e5fed.mjs';
 import 'html-escaper';
-import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.ce84daf0.mjs';
+import { $ as $$Header, a as $$Footer, b as $$Layout } from './index.astro.78d70175.mjs';
 import 'cookie';
 import 'kleur/colors';
 import 'path-to-regexp';
@@ -40,7 +40,7 @@ const $$Kinder$1 = createComponent(async ($$result, $$props, $$slots) => {
     <a class="image fit"><img${addAttribute(full_2, "src")} alt="Walkers screenshot"></a>
   </div>
 </section>`;
-}, "F:/Learning/Astro/portfolio-main/src/components/Kinder.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/components/Kinder.astro", void 0);
 
 const $$Astro = createAstro("https://tn7git.github.io");
 const $$Kinder = createComponent(async ($$result, $$props, $$slots) => {
@@ -56,9 +56,9 @@ const $$Kinder = createComponent(async ($$result, $$props, $$slots) => {
 
   ${renderComponent($$result2, "Footer", $$Footer, {})}
 ` })}`;
-}, "F:/Learning/Astro/portfolio-main/src/pages/kinder.astro", void 0);
+}, "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/pages/kinder.astro", void 0);
 
-const $$file = "F:/Learning/Astro/portfolio-main/src/pages/kinder.astro";
+const $$file = "/Users/browninkimac/Desktop/Tim's work/daily work/Tim Testing/React/Astro project/portfolio/portfolio-main/src/pages/kinder.astro";
 const $$url = "/portfolio-main/kinder";
 
 export { $$Kinder as default, $$file as file, $$url as url };

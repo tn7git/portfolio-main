@@ -2,6 +2,6 @@
   "extends": "astro/tsconfigs/base",
   "compilerOptions": {
   // Tell TypeScript where your build output is
-  "outDir": "./build"
+  "outDir": "./dist"
   }
 }

@@ -6,9 +6,9 @@ import vercel from "@astrojs/vercel/serverless";
 export default defineConfig({
   site: 'https://tn7git.github.io',
   base: '/portfolio-main',
-  experimental: {
-   viewTransitions: true 
-  },
+  // experimental: {
+  //  viewTransitions: true 
+  // },
   output: "server",
   adapter: vercel(),
   
